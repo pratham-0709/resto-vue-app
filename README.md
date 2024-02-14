@@ -2,18 +2,18 @@
 
 For accessing the app run the below steps; 
 
-# CMD 1:- npm install 
+- CMD 1:- npm install 
 
 For Production Purposes , 
 
-# CMD:- npm run build 
+- CMD:- npm run build 
 
 For Dev and UAT purposes , 
 
-# CMD:- npm run server 
+- CMD:- npm run server 
 
 OR 
 
-# CMD:- npm run dev (If Nodemon Package is installed...)
+- CMD:- npm run dev (If Nodemon Package is installed...)
 
 
